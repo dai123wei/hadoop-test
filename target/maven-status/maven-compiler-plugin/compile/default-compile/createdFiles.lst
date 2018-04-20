@@ -1,0 +1,9 @@
+com/dw/hadoop/test/WordCount.class
+com/dw/hadoop/test/MyJob.class
+com/dw/hadoop/test/MyJob$TemperatureMapper.class
+com/dw/hadoop/test/WordCount$WordCountMapper.class
+com/dw/hadoop/test/WordCount$WordCountReducer.class
+com/dw/hadoop/test/OldTemperatureReducer.class
+com/dw/hadoop/test/MyJob$TemperatureReducer.class
+com/dw/hadoop/test/MaxT.class
+com/dw/hadoop/test/OldTemperatureMapper.class
